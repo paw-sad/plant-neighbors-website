@@ -21,13 +21,11 @@
   {
     "name": "Apricot",
     "friends": [
-      "Garlic",
-      "Marigold",
-      "Stinging Nettle"
+      "Nasturtium",
+      "Spinach",
+      "Sunflower"
     ],
-    "enemies": [
-      "Tomato"
-    ]
+    "enemies": []
   },
   {
     "name": "Asparagus",
@@ -45,10 +43,10 @@
     "friends": [
       "Asparagus",
       "Cucumber",
-      "Tomato"
+      "Fennel"
     ],
     "enemies": [
-      "Silverbeet"
+      "Rue"
     ]
   },
   {
@@ -60,16 +58,16 @@
       "Corn",
       "Cucumber",
       "Eggplant",
+      "Grape Vine",
       "Lettuce",
       "Marigold",
       "Marjoram",
       "Parsley",
       "Parsnip",
-      "Peas",
       "Potato",
-      "Potatoes",
       "Rosemary",
-      "Sage"
+      "Sage",
+      "Savory"
     ],
     "enemies": [
       "Chives",
@@ -89,18 +87,14 @@
       "Corn",
       "Lettuce",
       "Marjoram",
-      "Onions",
-      "Potatoes",
-      "Radish",
-      "Silverbeet"
+      "Radish"
     ],
     "enemies": [
       "Beets",
       "Chives",
       "Garlic",
       "Onions",
-      "Sunflower",
-      "Tomato"
+      "Sunflower"
     ]
   },
   {
@@ -109,9 +103,7 @@
       "Broccoli",
       "Cabbages",
       "Cucumber",
-      "Peas",
-      "Squash",
-      "Tomato"
+      "Strawberry"
     ],
     "enemies": []
   },
@@ -120,12 +112,11 @@
     "friends": [
       "Broccoli",
       "Cabbages",
-      "Lettuce",
-      "Potatoes"
+      "Marjoram",
+      "Spinach"
     ],
     "enemies": [
-      "Garlic",
-      "Onions"
+      "Fennel"
     ]
   },
   {
@@ -162,8 +153,8 @@
       "Cucumber",
       "Marjoram",
       "Potato",
-      "Potatoes",
       "Strawberries",
+      "Strawberry",
       "Sunflower"
     ],
     "enemies": [
@@ -183,7 +174,6 @@
       "Celery",
       "Climbing Beans",
       "Coriander",
-      "Coriander/Dill",
       "Cucumber",
       "Dill",
       "Lavender",
@@ -192,11 +182,11 @@
       "Marigold",
       "Marjoram",
       "Mustard",
+      "Nasturtium",
       "Nasturtiums",
       "Onions",
-      "Peas",
+      "Pennyroyal",
       "Potato",
-      "Potatoes",
       "Rosemary",
       "Sage",
       "Tansy",
@@ -206,7 +196,7 @@
       "Garlic",
       "Rue",
       "Strawberries",
-      "Tomato"
+      "Strawberry"
     ]
   },
   {
@@ -215,19 +205,16 @@
       "Beans",
       "Chives",
       "Coriander",
-      "Coriander/Dill",
       "Cucumber",
       "Dill",
       "Fruit Trees",
       "Leeks",
       "Lettuce",
-      "Marigold",
       "Marjoram",
       "Onions",
-      "Peas",
       "Radish",
+      "Rosemary",
       "Rue",
-      "Sage",
       "Tomato"
     ],
     "enemies": [
@@ -242,35 +229,30 @@
       "Dill",
       "Leeks",
       "Marjoram",
-      "Peas",
       "Tomato"
     ],
     "enemies": [
       "Parsnip",
-      "Potato",
-      "Potatoes"
+      "Potato"
     ]
   },
   {
     "name": "Cherry",
     "friends": [
-      "Lettuce",
-      "Marigold",
-      "Silverbeet"
+      "Nasturtium",
+      "Spinach"
     ],
-    "enemies": [
-      "Potatoes"
-    ]
+    "enemies": []
   },
   {
     "name": "Chervil",
     "friends": [
       "Coriander",
-      "Coriander/Dill",
       "Dill",
-      "Garlic",
       "Lettuce",
-      "Radish"
+      "Parsley",
+      "Radish",
+      "Strawberry"
     ],
     "enemies": []
   },
@@ -280,15 +262,13 @@
       "Apple",
       "Asparagus",
       "Carrots",
-      "Mulberry",
-      "Roses",
-      "Tomato"
+      "Fruit Trees",
+      "Marjoram"
     ],
     "enemies": [
       "Beans",
       "Bush Beans",
-      "Beets",
-      "Peas"
+      "Beets"
     ]
   },
   {
@@ -297,12 +277,10 @@
       "Beets",
       "Broccoli",
       "Cabbages",
-      "Lettuce",
-      "Radish"
+      "Marjoram"
     ],
     "enemies": [
-      "Garlic",
-      "Onions"
+      "Sunflower"
     ]
   },
   {
@@ -312,20 +290,13 @@
       "Cabbages",
       "Carrots",
       "Chervil",
-      "Cucumber"
-    ],
-    "enemies": []
-  },
-  {
-    "name": "Coriander/Dill",
-    "friends": [
-      "Cabbages",
-      "Carrots",
-      "Chervil",
+      "Cucumber",
       "Dill",
       "Parsnip"
     ],
-    "enemies": []
+    "enemies": [
+      "Fennel"
+    ]
   },
   {
     "name": "Corn",
@@ -333,10 +304,8 @@
       "Beans",
       "Beets",
       "Bush Beans",
-      "Peas",
-      "Potatoes",
-      "Radish",
-      "Squash"
+      "Marjoram",
+      "Pumpkin"
     ],
     "enemies": []
   },
@@ -354,18 +323,16 @@
       "Cucumber",
       "Lemon Balm",
       "Lettuce",
+      "Marjoram",
       "Mustard",
-      "Peas",
+      "Nasturtium",
       "Pumpkin",
-      "Radish",
       "Strawberries",
       "Sunflower"
     ],
     "enemies": [
       "Parsnip",
-      "Rue",
-      "Potatoes",
-      "Sage"
+      "Rue"
     ]
   },
   {
@@ -376,8 +343,8 @@
       "Carrots",
       "Celery",
       "Chervil",
-      "Coriander/Dill",
-      "Tomato"
+      "Coriander",
+      "Fennel"
     ],
     "enemies": []
   },
@@ -385,15 +352,22 @@
     "name": "Eggplant",
     "friends": [
       "Beans",
-      "Potatoes"
+      "Marjoram"
     ],
     "enemies": []
   },
   {
     "name": "Fennel",
-    "friends": [],
+    "friends": [
+      "Basil",
+      "Dill",
+      "Strawberry"
+    ],
     "enemies": [
       "Beans",
+      "Broad Beans",
+      "Coriander",
+      "Lavender",
       "Tomato"
     ]
   },
@@ -401,68 +375,61 @@
     "name": "Fruit Trees",
     "friends": [
       "Carrots",
+      "Chives",
       "Garlic",
+      "Lemon Balm",
       "Marigold",
+      "Mustard",
+      "Nasturtium",
+      "Nasturtiums",
       "Silverbeet",
-      "Stinging Nettle"
+      "Spinach",
+      "Tansy",
+      "Yarrow"
     ],
-    "enemies": []
+    "enemies": [
+      "Grass",
+      "Strawberry"
+    ]
   },
   {
     "name": "Garlic",
     "friends": [
       "Apple",
-      "Apricot",
-      "Chervil",
       "Fruit Trees",
-      "Lavender",
-      "Mulberry",
-      "Rosemary",
-      "Roses"
+      "Rosemary"
     ],
     "enemies": [
       "Beans",
       "Bush Beans",
       "Beets",
-      "Cabbages",
-      "Broad Beans",
-      "Climbing Beans",
-      "Sunflower",
-      "Peas"
+      "Cabbages"
     ]
-  },
-  {
-    "name": "Gooseberry",
-    "friends": [
-      "Tomato"
-    ],
-    "enemies": []
   },
   {
     "name": "Grape Vine",
     "friends": [
-      "Mulberry",
-      "Tomato"
+      "Beans",
+      "Mustard",
+      "Tansy",
+      "Tomato",
+      "Yarrow"
     ],
     "enemies": []
   },
   {
     "name": "Grass",
-    "friends": [
-      "Mulberry"
-    ],
+    "friends": [],
     "enemies": [
       "Apple",
-      "Sage"
+      "Fruit Trees"
     ]
   },
   {
     "name": "Horseradish",
     "friends": [
       "Apple",
-      "Potatoes",
-      "Roses",
-      "Stinging Nettle"
+      "Strawberry"
     ],
     "enemies": []
   },
@@ -470,18 +437,18 @@
     "name": "Lavender",
     "friends": [
       "Cabbages",
-      "Garlic",
-      "Roses",
-      "Silverbeet"
+      "Marjoram"
     ],
-    "enemies": []
+    "enemies": [
+      "Fennel"
+    ]
   },
   {
     "name": "Leeks",
     "friends": [
       "Carrots",
       "Celery",
-      "Onions"
+      "Marjoram"
     ],
     "enemies": []
   },
@@ -491,8 +458,8 @@
       "Apple",
       "Cabbages",
       "Cucumber",
-      "Mulberry",
-      "Roses"
+      "Fruit Trees",
+      "Strawberry"
     ],
     "enemies": []
   },
@@ -501,20 +468,11 @@
     "friends": [
       "Beans",
       "Beets",
-      "Broad Beans",
       "Cabbages",
       "Carrots",
-      "Cherry",
       "Chervil",
-      "Climbing Beans",
       "Cucumber",
-      "Marigold",
-      "Marjoram",
-      "Onions",
-      "Parsnip",
-      "Peas",
-      "Radish",
-      "Strawberries"
+      "Marjoram"
     ],
     "enemies": [
       "Parsley"
@@ -524,20 +482,10 @@
     "name": "Marigold",
     "friends": [
       "Apple",
-      "Apricot",
       "Beans",
       "Broccoli",
       "Cabbages",
-      "Carrots",
-      "Cherry",
-      "Fruit Trees",
-      "Lettuce",
-      "Mulberry",
-      "Potato",
-      "Raspberry",
-      "Roses",
-      "Strawberries",
-      "Tomato"
+      "Fruit Trees"
     ],
     "enemies": []
   },
@@ -547,53 +495,64 @@
       "Asparagus",
       "Beans",
       "Beets",
+      "Broad Beans",
       "Broccoli",
       "Bush Beans",
       "Cabbages",
       "Carrots",
       "Celery",
+      "Chives",
+      "Climbing Beans",
+      "Corn",
+      "Cucumber",
+      "Eggplant",
+      "Lavender",
+      "Leeks",
       "Lettuce",
       "Onions",
-      "Peas",
-      "Potatoes",
+      "Parsnip",
+      "Potato",
+      "Pumpkin",
       "Radish",
+      "Shallots",
       "Silverbeet",
-      "Squash",
-      "Tomato"
+      "Spinach",
+      "Tomato",
+      "Zucchini"
     ],
     "enemies": []
   },
   {
     "name": "Mints",
-    "friends": [
-      "Tomato"
-    ],
-    "enemies": []
-  },
-  {
-    "name": "Mulberry",
-    "friends": [
-      "Chives",
-      "Garlic",
-      "Grape Vine",
-      "Grass",
-      "Lemon Balm",
-      "Marigold",
-      "Nasturtiums",
-      "Onions",
-      "Spinach",
-      "Strawberries",
-      "Thyme",
-      "Yarrow"
-    ],
-    "enemies": []
+    "friends": [],
+    "enemies": [
+      "Parsley"
+    ]
   },
   {
     "name": "Mustard",
     "friends": [
       "Apple",
       "Cabbages",
-      "Cucumber"
+      "Cucumber",
+      "Fruit Trees",
+      "Grape Vine"
+    ],
+    "enemies": []
+  },
+  {
+    "name": "Nasturtium",
+    "friends": [
+      "Apricot",
+      "Cabbages",
+      "Cherry",
+      "Cucumber",
+      "Fruit Trees",
+      "Potato",
+      "Radish",
+      "Roses",
+      "Tomato",
+      "Zucchini"
     ],
     "enemies": []
   },
@@ -603,39 +562,24 @@
       "Apple",
       "Broccoli",
       "Cabbages",
-      "Mulberry",
-      "Potatoes",
-      "Radish",
-      "Roses",
-      "Squash",
-      "Tomato"
+      "Fruit Trees",
+      "Strawberry"
     ],
     "enemies": []
   },
   {
     "name": "Onions",
     "friends": [
-      "Beets",
       "Cabbages",
       "Carrots",
-      "Leeks",
-      "Lettuce",
       "Marjoram",
-      "Mulberry",
       "Parsley",
-      "Parsnip",
-      "Roses",
-      "Silverbeet",
-      "Strawberries",
-      "Tomato"
+      "Savory"
     ],
     "enemies": [
       "Beans",
       "Bush Beans",
-      "Beets",
-      "Broad Beans",
-      "Climbing Beans",
-      "Peas"
+      "Beets"
     ]
   },
   {
@@ -643,26 +587,23 @@
     "friends": [
       "Asparagus",
       "Beans",
+      "Chervil",
       "Onions",
+      "Rosemary",
       "Roses",
       "Tomato"
     ],
     "enemies": [
-      "Lettuce"
+      "Lettuce",
+      "Mints"
     ]
   },
   {
     "name": "Parsnip",
     "friends": [
       "Beans",
-      "Coriander/Dill",
-      "Lettuce",
-      "Onions",
-      "Peas",
-      "Potatoes",
-      "Radish",
-      "Sage",
-      "Tomato"
+      "Coriander",
+      "Marjoram"
     ],
     "enemies": [
       "Carrots",
@@ -671,28 +612,11 @@
     ]
   },
   {
-    "name": "Peas",
+    "name": "Pennyroyal",
     "friends": [
-      "Beans",
-      "Borage",
-      "Cabbages",
-      "Carrots",
-      "Celery",
-      "Corn",
-      "Cucumber",
-      "Lettuce",
-      "Marjoram",
-      "Parsnip",
-      "Potato",
-      "Raspberry",
-      "Sage"
+      "Cabbages"
     ],
-    "enemies": [
-      "Chives",
-      "Garlic",
-      "Onions",
-      "Shallots"
-    ]
+    "enemies": []
   },
   {
     "name": "Potato",
@@ -701,8 +625,8 @@
       "Broccoli",
       "Bush Beans",
       "Cabbages",
-      "Marigold",
-      "Peas"
+      "Marjoram",
+      "Nasturtium"
     ],
     "enemies": [
       "Apple",
@@ -710,39 +634,13 @@
     ]
   },
   {
-    "name": "Potatoes",
-    "friends": [
-      "Beans",
-      "Beets",
-      "Broad Beans",
-      "Bush Beans",
-      "Cabbages",
-      "Corn",
-      "Eggplant",
-      "Horseradish",
-      "Marjoram",
-      "Nasturtiums",
-      "Parsnip"
-    ],
-    "enemies": [
-      "Celery",
-      "Cherry",
-      "Cucumber",
-      "Pumpkin",
-      "Raspberry",
-      "Rosemary",
-      "Sunflower",
-      "Tomato"
-    ]
-  },
-  {
     "name": "Pumpkin",
     "friends": [
-      "Cucumber"
+      "Corn",
+      "Cucumber",
+      "Marjoram"
     ],
-    "enemies": [
-      "Potatoes"
-    ]
+    "enemies": []
   },
   {
     "name": "Radish",
@@ -750,55 +648,38 @@
       "Beets",
       "Carrots",
       "Chervil",
-      "Climbing Beans",
-      "Corn",
-      "Cucumber",
-      "Lettuce",
       "Marjoram",
-      "Nasturtiums",
-      "Parsnip"
+      "Nasturtium"
     ],
     "enemies": []
   },
   {
     "name": "Raspberry",
     "friends": [
-      "Marigold",
-      "Peas"
+      "Rue"
     ],
-    "enemies": [
-      "Potatoes"
-    ]
+    "enemies": []
   },
   {
     "name": "Rosemary",
     "friends": [
       "Beans",
       "Cabbages",
+      "Carrots",
       "Garlic",
+      "Parsley",
       "Sage"
     ],
     "enemies": [
-      "Potatoes",
       "Tomato"
     ]
   },
   {
     "name": "Roses",
     "friends": [
-      "Chives",
-      "Garlic",
-      "Horseradish",
-      "Lavender",
-      "Lemon Balm",
-      "Marigold",
-      "Nasturtiums",
-      "Onions",
+      "Nasturtium",
       "Parsley",
-      "Rue",
-      "Sage",
-      "Tansy",
-      "Thyme"
+      "Rue"
     ],
     "enemies": []
   },
@@ -806,12 +687,15 @@
     "name": "Rue",
     "friends": [
       "Carrots",
-      "Roses"
+      "Raspberry",
+      "Roses",
+      "Strawberry"
     ],
     "enemies": [
       "Broccoli",
       "Cabbages",
       "Cucumber",
+      "Basil",
       "Sage"
     ]
   },
@@ -820,68 +704,48 @@
     "friends": [
       "Beans",
       "Cabbages",
-      "Carrots",
-      "Parsnip",
-      "Peas",
-      "Rosemary",
-      "Roses",
-      "Strawberries"
+      "Rosemary"
     ],
     "enemies": [
-      "Cucumber",
-      "Grass",
       "Rue"
     ]
   },
   {
-    "name": "Shallots",
-    "friends": [],
-    "enemies": [
+    "name": "Savory",
+    "friends": [
       "Beans",
-      "Peas"
+      "Onions"
+    ],
+    "enemies": []
+  },
+  {
+    "name": "Shallots",
+    "friends": [
+      "Marjoram"
+    ],
+    "enemies": [
+      "Beans"
     ]
   },
   {
     "name": "Silverbeet",
     "friends": [
-      "Beets",
-      "Cherry",
       "Fruit Trees",
-      "Lavender",
-      "Marjoram",
-      "Onions"
+      "Marjoram"
     ],
-    "enemies": [
-      "Basil"
-    ]
+    "enemies": []
   },
   {
     "name": "Spinach",
     "friends": [
       "Apple",
-      "Mulberry"
-    ],
-    "enemies": []
-  },
-  {
-    "name": "Squash",
-    "friends": [
-      "Borage",
-      "Corn",
-      "Marjoram",
-      "Nasturtiums",
-      "Sunflower",
-      "Tansy"
-    ],
-    "enemies": []
-  },
-  {
-    "name": "Stinging Nettle",
-    "friends": [
       "Apricot",
+      "Broad Beans",
+      "Cherry",
       "Fruit Trees",
-      "Horseradish",
-      "Tomato"
+      "Marjoram",
+      "Strawberries",
+      "Strawberry"
     ],
     "enemies": []
   },
@@ -890,11 +754,7 @@
     "friends": [
       "Bush Beans",
       "Cucumber",
-      "Lettuce",
-      "Marigold",
-      "Mulberry",
-      "Onions",
-      "Sage"
+      "Spinach"
     ],
     "enemies": [
       "Broccoli",
@@ -902,16 +762,33 @@
     ]
   },
   {
+    "name": "Strawberry",
+    "friends": [
+      "Borage",
+      "Bush Beans",
+      "Chervil",
+      "Fennel",
+      "Horseradish",
+      "Lemon Balm",
+      "Nasturtiums",
+      "Rue",
+      "Spinach"
+    ],
+    "enemies": [
+      "Cabbages",
+      "Fruit Trees"
+    ]
+  },
+  {
     "name": "Sunflower",
     "friends": [
+      "Apricot",
       "Bush Beans",
-      "Cucumber",
-      "Squash"
+      "Cucumber"
     ],
     "enemies": [
       "Beets",
-      "Garlic",
-      "Potatoes"
+      "Climbing Beans"
     ]
   },
   {
@@ -919,17 +796,15 @@
     "friends": [
       "Apple",
       "Cabbages",
-      "Roses",
-      "Squash"
+      "Fruit Trees",
+      "Grape Vine"
     ],
     "enemies": []
   },
   {
     "name": "Thyme",
     "friends": [
-      "Cabbages",
-      "Mulberry",
-      "Roses"
+      "Cabbages"
     ],
     "enemies": []
   },
@@ -937,29 +812,15 @@
     "name": "Tomato",
     "friends": [
       "Asparagus",
-      "Basil",
-      "Borage",
       "Broccoli",
       "Carrots",
       "Celery",
-      "Chives",
-      "Dill",
-      "Gooseberry",
       "Grape Vine",
-      "Marigold",
       "Marjoram",
-      "Mints",
-      "Nasturtiums",
-      "Onions",
-      "Parsley",
-      "Parsnip",
-      "Stinging Nettle"
+      "Nasturtium",
+      "Parsley"
     ],
     "enemies": [
-      "Potatoes",
-      "Apricot",
-      "Beets",
-      "Cabbages",
       "Fennel",
       "Rosemary"
     ]
@@ -968,7 +829,16 @@
     "name": "Yarrow",
     "friends": [
       "Apple",
-      "Mulberry"
+      "Fruit Trees",
+      "Grape Vine"
+    ],
+    "enemies": []
+  },
+  {
+    "name": "Zucchini",
+    "friends": [
+      "Marjoram",
+      "Nasturtium"
     ],
     "enemies": []
   }
