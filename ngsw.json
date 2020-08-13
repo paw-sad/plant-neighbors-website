@@ -1,23 +1,23 @@
 {
   "configVersion": 1,
-  "timestamp": 1590343180129,
-  "index": "plant-neighbors-website/index.html",
+  "timestamp": 1597309000817,
+  "index": "/plant-neighbors-website/index.html",
   "assetGroups": [
     {
       "name": "app",
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "plant-neighbors-website/favicon.ico",
-        "plant-neighbors-website/index.html",
-        "plant-neighbors-website/main-es2015.0b963ec4d09edac92a7a.js",
-        "plant-neighbors-website/main-es5.0b963ec4d09edac92a7a.js",
-        "plant-neighbors-website/manifest.webmanifest",
-        "plant-neighbors-website/polyfills-es2015.1f913f16a2d346cc8bdc.js",
-        "plant-neighbors-website/polyfills-es5.1a3c78b07cd6f16c6e9a.js",
-        "plant-neighbors-website/runtime-es2015.0811dcefd377500b5b1a.js",
-        "plant-neighbors-website/runtime-es5.0811dcefd377500b5b1a.js",
-        "plant-neighbors-website/styles.797c5241ae1b04cf8a36.css"
+        "/plant-neighbors-website/favicon.ico",
+        "/plant-neighbors-website/index.html",
+        "/plant-neighbors-website/main-es2015.2da33d364766453036ab.js",
+        "/plant-neighbors-website/main-es5.2da33d364766453036ab.js",
+        "/plant-neighbors-website/manifest.webmanifest",
+        "/plant-neighbors-website/polyfills-es2015.870cff9c91eaf134b88a.js",
+        "/plant-neighbors-website/polyfills-es5.03ba6fca1870326fbcc1.js",
+        "/plant-neighbors-website/runtime-es2015.0811dcefd377500b5b1a.js",
+        "/plant-neighbors-website/runtime-es5.0811dcefd377500b5b1a.js",
+        "/plant-neighbors-website/styles.6f2676e4f4d32a0827a3.css"
       ],
       "patterns": []
     },
@@ -26,36 +26,36 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
-        "plant-neighbors-website/assets/icons/android-chrome-192x192.png",
-        "plant-neighbors-website/assets/icons/android-chrome-512x512.png",
-        "plant-neighbors-website/assets/icons/apple-touch-icon.png",
-        "plant-neighbors-website/assets/icons/favicon-16x16.png",
-        "plant-neighbors-website/assets/icons/favicon-32x32.png",
-        "plant-neighbors-website/assets/icons/site.webmanifest",
-        "plant-neighbors-website/assets/plants.json"
+        "/plant-neighbors-website/assets/icons/android-chrome-192x192.png",
+        "/plant-neighbors-website/assets/icons/android-chrome-512x512.png",
+        "/plant-neighbors-website/assets/icons/apple-touch-icon.png",
+        "/plant-neighbors-website/assets/icons/favicon-16x16.png",
+        "/plant-neighbors-website/assets/icons/favicon-32x32.png",
+        "/plant-neighbors-website/assets/icons/site.webmanifest",
+        "/plant-neighbors-website/assets/plants.json"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "plant-neighbors-website/assets/icons/android-chrome-192x192.png": "303decc35d695d5a319c773fdd9077018d482ab4",
-    "plant-neighbors-website/assets/icons/android-chrome-512x512.png": "c6febeb83ea75b0446f4c2fb37dab6e742461a47",
-    "plant-neighbors-website/assets/icons/apple-touch-icon.png": "994d1d30c502318c901a1fab502864d47f3cc189",
-    "plant-neighbors-website/assets/icons/favicon-16x16.png": "8c61594165af6c395f3bd8443c48be2c2eac5d78",
-    "plant-neighbors-website/assets/icons/favicon-32x32.png": "65366c90100bb6e8be8f1d8f2a95eb8f9774489b",
-    "plant-neighbors-website/assets/icons/site.webmanifest": "29b61c0deef6d24741de4fd0bae4b4229a3cd2d2",
-    "plant-neighbors-website/assets/plants.json": "4386eec6e344de40a5eff7515ae12a31173b22f3",
-    "plant-neighbors-website/favicon.ico": "be4c4e40686f5e36798c83d70ce560218e415a17",
-    "plant-neighbors-website/index.html": "8cebabcc9e7a9137db1cfccb82bb1cbe6ff65a63",
-    "plant-neighbors-website/main-es2015.0b963ec4d09edac92a7a.js": "c1482291b5f7ed870f9a87ad7f7ae8c709bb1c40",
-    "plant-neighbors-website/main-es5.0b963ec4d09edac92a7a.js": "7d00a57ec59d791466ff6d4cece9dfcb64705773",
-    "plant-neighbors-website/manifest.webmanifest": "a17a6f13281e12fdaaebf6c13b06c4047be68ef2",
-    "plant-neighbors-website/polyfills-es2015.1f913f16a2d346cc8bdc.js": "72ad4ccc0a3916ae4598199447cdeadd6d380570",
-    "plant-neighbors-website/polyfills-es5.1a3c78b07cd6f16c6e9a.js": "e5472003c8575a8fca7583648df3905038faeb18",
-    "plant-neighbors-website/runtime-es2015.0811dcefd377500b5b1a.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "plant-neighbors-website/runtime-es5.0811dcefd377500b5b1a.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "plant-neighbors-website/styles.797c5241ae1b04cf8a36.css": "26293896d14b2998a411486238b5ccf31e9c9f6a"
+    "/plant-neighbors-website/assets/icons/android-chrome-192x192.png": "303decc35d695d5a319c773fdd9077018d482ab4",
+    "/plant-neighbors-website/assets/icons/android-chrome-512x512.png": "c6febeb83ea75b0446f4c2fb37dab6e742461a47",
+    "/plant-neighbors-website/assets/icons/apple-touch-icon.png": "994d1d30c502318c901a1fab502864d47f3cc189",
+    "/plant-neighbors-website/assets/icons/favicon-16x16.png": "8c61594165af6c395f3bd8443c48be2c2eac5d78",
+    "/plant-neighbors-website/assets/icons/favicon-32x32.png": "65366c90100bb6e8be8f1d8f2a95eb8f9774489b",
+    "/plant-neighbors-website/assets/icons/site.webmanifest": "29b61c0deef6d24741de4fd0bae4b4229a3cd2d2",
+    "/plant-neighbors-website/assets/plants.json": "4386eec6e344de40a5eff7515ae12a31173b22f3",
+    "/plant-neighbors-website/favicon.ico": "be4c4e40686f5e36798c83d70ce560218e415a17",
+    "/plant-neighbors-website/index.html": "0a4883cf1ef1c02cd536d96df0ae0e82399188c1",
+    "/plant-neighbors-website/main-es2015.2da33d364766453036ab.js": "b945c4dab88f1b152bbd1e5b746736eeba3b5282",
+    "/plant-neighbors-website/main-es5.2da33d364766453036ab.js": "9c8b2c0e317daae97cad1e466e99e0e586f556f4",
+    "/plant-neighbors-website/manifest.webmanifest": "a17a6f13281e12fdaaebf6c13b06c4047be68ef2",
+    "/plant-neighbors-website/polyfills-es2015.870cff9c91eaf134b88a.js": "8af3f8ffb2e96557f1a5b4fd860fe6081d5f5d4e",
+    "/plant-neighbors-website/polyfills-es5.03ba6fca1870326fbcc1.js": "a90fbb6e6bc847383cb9e02d52a92b09985a637f",
+    "/plant-neighbors-website/runtime-es2015.0811dcefd377500b5b1a.js": "8968caa0caa0384ae9df9280fc220ab7a058020d",
+    "/plant-neighbors-website/runtime-es5.0811dcefd377500b5b1a.js": "d3b70d83a0c90584682161106ea728776e75d4bb",
+    "/plant-neighbors-website/styles.6f2676e4f4d32a0827a3.css": "26293896d14b2998a411486238b5ccf31e9c9f6a"
   },
   "navigationUrls": [
     {
